@@ -1,0 +1,15 @@
+{
+  "hash": "5a208675",
+  "configHash": "7f326a27",
+  "lockfileHash": "753c1afa",
+  "browserHash": "e598363a",
+  "optimized": {
+    "uqrcodejs": {
+      "src": "../../../../../node_modules/uqrcodejs/uqrcode.js",
+      "file": "uqrcodejs.js",
+      "fileHash": "a3e3368a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}
